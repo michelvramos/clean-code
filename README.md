@@ -1,6 +1,6 @@
 # Boas Práticas e Clean Code
 
-[Conceitos para C#](csharp/csharp.md)
+[Conceitos para C#](csharp.md)
 
 # Motivação
 
