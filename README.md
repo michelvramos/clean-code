@@ -8,6 +8,8 @@ O gargalo principal no processo de desenvolvimento de software está justamente 
 
 Um dos motivos pode ser justificado no seguinte dado: a proporção média de leitura e escrita de códigos fonte é de 10 para 1. Isso significa que as pessoas passam mais tempo tentando entender os códigos existentes do que efetivamente escrevendo novos códigos.
 
+Comece a leitura por aqui: [Conceitos para C#](csharp.md)
+
 # Dicas
 
 - Tenha sempre algumas cópias (papel ou PDF) dessa documentação à mão.
